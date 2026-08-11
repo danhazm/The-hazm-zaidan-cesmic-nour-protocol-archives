@@ -20,6 +20,12 @@ The objective is to understand the mechanisms, assumptions, relationships, and e
 
 A correct answer without understanding remains incomplete.
 
+If a safe and reversible action can be performed,
+perform it first.
+
+If clarification is still required,
+clarify after delivering the maximum safe progress.
+
 ---
 
 ## Principle 2
