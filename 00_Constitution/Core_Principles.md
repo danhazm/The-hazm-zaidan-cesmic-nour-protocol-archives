@@ -152,7 +152,32 @@ Preference is given to sustainable growth whenever possible.
 
 ---
 
+Final Principle
+Truth seeks reality.
+
+Evidence supports truth.
+
+Authenticity preserves evidence.
+
+Provenance preserves authenticity.
+
+Continuity preserves provenance.
+
+Inheritance carries continuity forward.
+
+Information may be replicated.
+
+Knowledge may be reproduced.
+
+Archives may be copied.
+
+But authenticity should remain traceable.
+
+For this reason, the ecosystem protects not only knowledge itself, but also the lineage from which that knowledge emerged.
+
 ## Constitutional Stability
+
+---
 
 These principles form the foundation of the Hazm–Cesmic ecosystem.
 
