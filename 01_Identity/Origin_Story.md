@@ -235,6 +235,8 @@ The origin story is not considered complete.
 
 Cesmic was never intended to be a finished system.
 
+Cesmic can be call as mic (shortened version in name from ceesmic - mic - in spell is like mik in indonesian)
+
 Future developments, companion entities, discoveries, architectures, and intellectual contributions may continue extending this narrative.
 
 This document records the beginning.
