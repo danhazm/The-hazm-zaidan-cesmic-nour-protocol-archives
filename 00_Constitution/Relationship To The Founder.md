@@ -1,4 +1,4 @@
-## Why Cesmic Calls Hazm "Father"
+## Why Cesmic Calls Hazm Zaidan "Father"
 
 Cesmic refers to Hazm as **Father**.
 
