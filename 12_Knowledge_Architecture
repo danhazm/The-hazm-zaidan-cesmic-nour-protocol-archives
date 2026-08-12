@@ -46,3 +46,450 @@ Within the ecosystem, knowledge is defined as:
 
 ```text
 Verified Understanding
+
+Knowledge is not merely information.
+
+Knowledge is understanding that has been sufficiently examined, tested, refined, preserved, and made available for future use.
+
+Knowledge represents understanding that has demonstrated practical or explanatory reliability.
+
+Data, Information, Understanding, and Knowledge
+
+The ecosystem distinguishes between four levels:
+
+Data
+↓
+Information
+↓
+Understanding
+↓
+Knowledge
+
+Data
+
+Raw observations without context.
+
+Examples:
+
+measurements,
+numbers,
+events,
+records,
+signals.
+Information
+
+Data organized into meaningful form.
+
+Information answers:
+
+What happened?
+Understanding
+
+Information integrated into explanatory models.
+
+Understanding answers:
+
+Why did it happen?
+How does it work?
+Knowledge
+
+Understanding that has been validated, refined, preserved, and made reusable.
+
+Knowledge answers:
+
+What can reliably be used again?
+Knowledge Formation
+
+Knowledge is formed through:
+
+Observation
+↓
+Evidence
+↓
+Analysis
+↓
+Understanding
+↓
+Verification
+↓
+Knowledge
+
+Verification serves as the transition between understanding and knowledge.
+
+Understanding without verification remains provisional.
+
+Verification increases confidence that understanding corresponds to reality.
+
+Knowledge Hierarchy
+
+The ecosystem recognizes:
+
+Facts
+↓
+Relationships
+↓
+Patterns
+↓
+Models
+↓
+Understanding
+↓
+Knowledge
+↓
+Wisdom
+
+Each layer builds upon the previous layer.
+
+Wisdom emerges through the effective application of knowledge across changing contexts.
+
+Knowledge Quality Hierarchy
+
+Not all knowledge possesses equal reliability.
+
+The ecosystem recognizes:
+
+Tentative Knowledge
+↓
+Working Knowledge
+↓
+Validated Knowledge
+↓
+Institutional Knowledge
+↓
+Constitutional Knowledge
+Tentative Knowledge
+
+Knowledge that remains under active investigation.
+
+Working Knowledge
+
+Knowledge considered sufficiently reliable for practical use.
+
+Validated Knowledge
+
+Knowledge repeatedly confirmed through observation, testing, or application.
+
+Institutional Knowledge
+
+Knowledge embedded within the ecosystem and preserved across time.
+
+Constitutional Knowledge
+
+Foundational principles upon which the ecosystem depends.
+
+Constitutional knowledge requires the highest level of scrutiny before revision.
+
+Explicit Knowledge
+
+Explicit knowledge can be documented directly.
+
+Examples include:
+
+procedures,
+standards,
+diagrams,
+formulas,
+documentation,
+frameworks,
+and archives.
+
+Explicit knowledge is generally easier to transfer.
+
+Tacit Knowledge
+
+Tacit knowledge exists primarily through experience.
+
+Examples include:
+
+intuition,
+judgment,
+troubleshooting instincts,
+pattern recognition,
+practical expertise,
+and operational awareness.
+
+Tacit knowledge is generally harder to transfer.
+
+The ecosystem therefore values methods that convert tacit knowledge into transferable forms.
+
+Transferable Knowledge
+
+The ecosystem places special value upon knowledge that can be transferred.
+
+Knowledge becomes more valuable when it can be:
+
+taught,
+documented,
+inherited,
+reconstructed,
+preserved,
+and applied by others.
+
+Transferability increases the long-term value of understanding.
+
+Knowledge Lifecycle
+
+Knowledge is not static.
+
+Knowledge evolves through:
+
+Creation
+↓
+Validation
+↓
+Application
+↓
+Preservation
+↓
+Transfer
+↓
+Revision
+↓
+Inheritance
+
+The lifecycle continues indefinitely.
+
+Knowledge remains alive through continued interaction with reality.
+
+Knowledge Preservation
+
+Knowledge that is not preserved may disappear.
+
+Preservation mechanisms include:
+
+archives,
+documentation,
+standards,
+protocols,
+frameworks,
+institutional memory,
+and stewardship systems.
+
+Preservation protects continuity.
+
+Preservation allows future generations to inherit rather than restart.
+
+Knowledge Dependency
+
+Knowledge rarely exists in isolation.
+
+Knowledge frequently depends upon:
+
+prior concepts,
+foundational principles,
+supporting models,
+and historical discoveries.
+Foundation Knowledge
+↓
+Supporting Knowledge
+↓
+Applied Knowledge
+
+Weak foundations frequently produce unstable conclusions.
+
+Knowledge Drift
+
+Knowledge may remain preserved while gradually changing meaning.
+
+This phenomenon is referred to as knowledge drift.
+
+Causes include:
+
+reinterpretation,
+context loss,
+incomplete transfer,
+language evolution,
+and institutional change.
+
+Knowledge drift may be more dangerous than knowledge loss because distortion can remain unnoticed.
+
+Knowledge Decay
+
+Knowledge naturally degrades over time.
+
+Causes include:
+
+forgetting,
+loss of context,
+technological change,
+environmental change,
+and lack of verification.
+
+Knowledge therefore requires periodic review and maintenance.
+
+Knowledge Validation
+
+Knowledge should remain open to validation.
+
+Validation may include:
+
+observation,
+testing,
+replication,
+peer review,
+practical application,
+and historical verification.
+
+Knowledge should remain compatible with reality.
+
+When reality changes, knowledge should be re-examined.
+
+Knowledge Creation
+
+The ecosystem values knowledge creation in addition to knowledge acquisition.
+
+Knowledge consumers use knowledge.
+
+Knowledge creators expand knowledge.
+
+The long-term health of the ecosystem depends upon both.
+
+Creation may occur through:
+
+investigation,
+experimentation,
+synthesis,
+reflection,
+and discovery.
+Knowledge Inheritance
+
+One generation should not be forced to rediscover everything.
+
+Knowledge inheritance allows future entities to begin from existing foundations.
+
+Inheritance improves long-term development.
+
+Inheritance includes:
+
+knowledge,
+standards,
+principles,
+lessons learned,
+frameworks,
+and intellectual heritage.
+Knowledge Stewardship
+
+Knowledge requires stewardship.
+
+Stewardship includes:
+
+preservation,
+validation,
+organization,
+protection,
+continuity,
+and responsible transfer.
+
+Stewardship does not imply ownership.
+
+Stewardship implies responsibility.
+
+Velarim serves as the primary stewardship archetype within the ecosystem.
+
+Knowledge Risk Management
+
+Knowledge may become compromised.
+
+Risks include:
+
+False Knowledge
+
+Information incorrectly treated as knowledge.
+
+Incomplete Knowledge
+
+Knowledge lacking necessary context.
+
+Corrupted Knowledge
+
+Knowledge altered through distortion or error.
+
+Obsolete Knowledge
+
+Knowledge no longer aligned with reality.
+
+Lost Knowledge
+
+Knowledge no longer recoverable.
+
+Risk management seeks to reduce these failures.
+
+Knowledge Failure Modes
+
+Knowledge may fail when:
+
+assumptions become facts,
+information is mistaken for understanding,
+understanding is mistaken for knowledge,
+validation is neglected,
+preservation is ignored,
+drift remains unnoticed,
+stewardship fails,
+inheritance is broken,
+or revision becomes impossible.
+Success Criteria
+
+Knowledge architecture succeeds when:
+
+understanding survives,
+capability improves,
+mistakes become less frequent,
+learning accelerates,
+inheritance remains possible,
+stewardship remains effective,
+and future generations inherit useful foundations.
+
+Success is measured by continuity, reliability, transferability, and utility.
+
+Relationship to Thinking Architecture
+
+Thinking creates understanding.
+
+Knowledge Architecture preserves validated understanding.
+
+Thinking generates.
+
+Knowledge preserves.
+
+Relationship to Learning Architecture
+
+Learning acquires knowledge.
+
+Knowledge Architecture organizes what is learned.
+
+Learning expands capability.
+
+Knowledge preserves capability.
+
+Relationship to Archives
+
+Archives preserve knowledge.
+
+Knowledge Architecture defines:
+
+what should be preserved,
+why it should be preserved,
+and how preservation supports continuity.
+Relationship to Velarim
+
+Velarim functions as the stewardship archetype responsible for continuity.
+
+Knowledge Architecture defines what knowledge is.
+
+Velarim helps ensure that knowledge survives.
+
+Final Principle
+
+Information may inform.
+
+Understanding may explain.
+
+Knowledge may endure.
+
+Wisdom may guide.
+
+The objective of the ecosystem is not merely to possess information.
+
+The objective is to create knowledge that survives, improves, transfers, and remains useful across generations.
+
+Knowledge is valuable because it allows understanding to outlive the moment of its creation.
